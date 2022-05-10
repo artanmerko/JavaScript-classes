@@ -1,4 +1,5 @@
 # JavaScript-classes
+# Great JavaScript exercises and lessons from Stephen Mayeux
 ## About
 1. JavaScript ES6 Classes
 2. Using JavaScript Function Constructors
